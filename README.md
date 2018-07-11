@@ -4,6 +4,7 @@
 - [酷狗音乐](https://github.com/gaoxinge/spiderman/tree/master/酷狗音乐)
 - [QQ音乐](https://github.com/gaoxinge/spiderman/tree/master/QQ音乐)
 - [虾米音乐](https://www.douban.com/note/376222776/)
+- [百度音乐](https://github.com/gaoxinge/spiderman/tree/master/百度音乐)
 
 ## 正则表达式
 
