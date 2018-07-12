@@ -5,6 +5,7 @@
 - [QQ音乐](https://github.com/gaoxinge/spiderman/tree/master/QQ音乐)
 - [虾米音乐](https://www.douban.com/note/376222776/)
 - [网易云音乐](https://github.com/darknessomi/musicbox/wiki/网易云音乐新版WebAPI分析。)
+- [百度音乐](https://github.com/gaoxinge/spiderman/tree/master/百度音乐)
 
 ## 正则表达式
 
