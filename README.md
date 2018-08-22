@@ -7,6 +7,9 @@
 - [百度音乐](https://github.com/gaoxinge/spiderman/tree/master/百度音乐)
 - [网易云音乐](https://github.com/darknessomi/musicbox/wiki/网易云音乐新版WebAPI分析。)
 - [b站视频字幕](https://github.com/gaoxinge/spiderman/tree/master/b站视频字幕)
+- [BitForex](https://github.com/gaoxinge/spiderman/tree/master/BitForex)
+- [火币网](https://github.com/gaoxinge/spiderman/tree/master/火币网)
+- [OKCOIN](https://github.com/gaoxinge/spiderman/tree/master/OKCOIN)
 
 ## 正则表达式
 
